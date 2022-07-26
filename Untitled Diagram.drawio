@@ -1,38 +1,19 @@
-<mxfile host="app.diagrams.net" modified="2022-07-26T17:47:59.753Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.134 Safari/537.36" etag="zq2MQmpRaEiSCJBQXF5A" version="16.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-26T18:07:39.872Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.134 Safari/537.36" etag="7NCH7hH0st5yiHZqvOpp" version="16.2.7" type="github">
   <diagram id="FiTz036HO6Nj0-oMYhlC" name="Page-1">
-    <mxGraphModel dx="1396" dy="798" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1309" dy="798" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="Dm8rpOGCbq0OgDxA2bPs-2" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.devices.switch;" vertex="1" parent="1">
-          <mxGeometry x="290" y="240" width="220" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="Dm8rpOGCbq0OgDxA2bPs-3" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=16;" vertex="1" parent="1">
-          <mxGeometry x="80" y="470" width="300" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="Dm8rpOGCbq0OgDxA2bPs-11" value="" style="verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.router;rounded=1;portConstraintRotation=0;sketch=0;shadow=0;" vertex="1" parent="1">
-          <mxGeometry x="140" y="160" width="220" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="Dm8rpOGCbq0OgDxA2bPs-5" value="0" style="whiteSpace=wrap;html=1;aspect=fixed;container=0;" vertex="1" parent="1">
-          <mxGeometry x="100" y="480" width="30" height="30" as="geometry">
-            <mxRectangle x="100" y="480" width="40" height="20" as="alternateBounds" />
+        <mxCell id="Dm8rpOGCbq0OgDxA2bPs-11" value="Proxmox" style="verticalAlign=bottom;verticalLabelPosition=top;labelPosition=center;align=center;html=1;outlineConnect=0;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.router;rounded=1;portConstraintRotation=0;sketch=0;shadow=0;noLabel=0;enumerate=0;comic=0;treeMoving=0;treeFolding=0;container=0;" parent="1" vertex="1">
+          <mxGeometry x="140" y="160" width="220" height="40" as="geometry">
+            <mxRectangle x="140" y="160" width="80" height="20" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Dm8rpOGCbq0OgDxA2bPs-6" value="1" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="140" y="480" width="30" height="30" as="geometry" />
+        <mxCell id="wgk8yoZGQQujISTqJFCH-1" value="" style="html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.cloud;fontColor=#ffffff;comic=0;" vertex="1" parent="1">
+          <mxGeometry x="630" y="40" width="90" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="Dm8rpOGCbq0OgDxA2bPs-7" value="2" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="180" y="480" width="30" height="30" as="geometry" />
-        </mxCell>
-        <object label="3" port="1" vlanTag="" placeholders="1" id="Dm8rpOGCbq0OgDxA2bPs-8">
-          <mxCell style="whiteSpace=wrap;html=1;aspect=fixed;container=0;" vertex="1" parent="1">
-            <mxGeometry x="220" y="480" width="30" height="30" as="geometry">
-              <mxRectangle x="220" y="480" width="40" height="20" as="alternateBounds" />
-            </mxGeometry>
-          </mxCell>
-        </object>
-        <mxCell id="Dm8rpOGCbq0OgDxA2bPs-14" value="&amp;laquo;interface&amp;raquo;&lt;br&gt;&lt;b&gt;Name&lt;/b&gt;" style="html=1;rounded=0;sketch=0;" vertex="1" parent="1">
-          <mxGeometry x="360" y="260" width="110" height="50" as="geometry" />
+        <mxCell id="wgk8yoZGQQujISTqJFCH-3" value="" style="html=1;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;shadow=0;dashed=0;shape=mxgraph.rack.hpe_aruba.switches.j993a_8_port_1g_10gbe_sfpplus_with_macsec_v3_zl2_module;comic=0;" vertex="1" parent="1">
+          <mxGeometry x="120" y="250" width="180" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
