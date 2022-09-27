@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-27T18:24:13.076Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="jn-OxEXLx83XGlfWgOo3" version="20.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-27T18:27:57.347Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="QCKTSSmOKQ1lETsuA6fV" version="20.2.7" type="github">
   <diagram id="RK82QppB5NHQeaTOXXpw" name="Page-1">
     <mxGraphModel dx="1227" dy="1967" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -23,7 +23,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="U8t9DFMX4hppF1b_Cr_i-4" value="Router VM&lt;br&gt;Opnsense" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.router;" vertex="1" parent="1">
-          <mxGeometry x="130" y="-300" width="110" height="50" as="geometry" />
+          <mxGeometry x="80" y="-310" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="U8t9DFMX4hppF1b_Cr_i-5" value="TP-Link switch" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.switch;" vertex="1" parent="1">
           <mxGeometry x="390" y="-500" width="170" height="90" as="geometry" />
