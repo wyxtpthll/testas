@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-28T05:39:12.339Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="sc-vOaio4N4SSkIVCNnW" version="20.3.7" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-09-28T05:43:10.651Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="N2bXt7PZkkZsI-DwqXW7" version="20.3.7" type="github" pages="3">
   <diagram id="RK82QppB5NHQeaTOXXpw" name="Over All">
     <mxGraphModel dx="1550" dy="2040" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -68,9 +68,11 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="U8t9DFMX4hppF1b_Cr_i-10" value="Unifi AP AC lite" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.wireless_hub;" parent="1" vertex="1">
-          <mxGeometry x="425" y="-870" width="100" height="85" as="geometry" />
-        </mxCell>
+        <UserObject label="Unifi AP AC lite" link="data:page/id,bRCjAlGiZhQxXE_Tppso" id="U8t9DFMX4hppF1b_Cr_i-10">
+          <mxCell style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.wireless_hub;" parent="1" vertex="1">
+            <mxGeometry x="260" y="-900" width="100" height="85" as="geometry" />
+          </mxCell>
+        </UserObject>
         <mxCell id="U8t9DFMX4hppF1b_Cr_i-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.95;entryY=0.05;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=classic;startFill=1;" parent="1" source="U8t9DFMX4hppF1b_Cr_i-13" target="U8t9DFMX4hppF1b_Cr_i-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -85,11 +87,6 @@
         <mxCell id="U8t9DFMX4hppF1b_Cr_i-16" value="Internet" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="405" y="-210" width="120" height="80" as="geometry" />
         </mxCell>
-        <UserObject label="Detail" link="data:page/id,bRCjAlGiZhQxXE_Tppso" id="U8t9DFMX4hppF1b_Cr_i-22">
-          <mxCell style="text;html=1;strokeColor=none;fillColor=none;whiteSpace=wrap;align=center;verticalAlign=middle;fontColor=#0000EE;fontStyle=4;fontSize=11;" parent="1" vertex="1">
-            <mxGeometry x="490" y="-847.5" width="60" height="40" as="geometry" />
-          </mxCell>
-        </UserObject>
         <UserObject label="Detail" link="data:page/id,qvgigx6a_49jUqLQ-mN9" id="nuNIrxT3Yfp7LdkT0Gri-2">
           <mxCell style="text;html=1;strokeColor=none;fillColor=none;whiteSpace=wrap;align=center;verticalAlign=middle;fontColor=#0000EE;fontStyle=4;fontSize=11;" parent="1" vertex="1">
             <mxGeometry x="230" y="-630" width="60" height="40" as="geometry" />
@@ -107,7 +104,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="bRCjAlGiZhQxXE_Tppso" name="unifi AP">
-    <mxGraphModel dx="1355" dy="871" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1550" dy="871" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
