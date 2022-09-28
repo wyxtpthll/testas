@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-28T05:25:47.639Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="yXdvJXKXZOCBn41UwsV_" version="20.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-28T05:27:31.716Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="aeZvq7NpHWacnGXDrUN0" version="20.2.7" type="github">
   <diagram id="RK82QppB5NHQeaTOXXpw" name="Page-1">
     <mxGraphModel dx="1355" dy="2040" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -12,7 +12,8 @@
             <mxPoint x="330" y="-455" as="targetPoint" />
             <Array as="points">
               <mxPoint x="310" y="-290" />
-              <mxPoint x="310" y="-455" />
+              <mxPoint x="310" y="-450" />
+              <mxPoint x="390" y="-450" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -42,13 +43,12 @@
           <mxGeometry x="70" y="-290" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="U8t9DFMX4hppF1b_Cr_i-5" value="TP-Link switch" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.switch;" vertex="1" parent="1">
-          <mxGeometry x="390" y="-500" width="170" height="90" as="geometry" />
+          <mxGeometry x="390" y="-500" width="170" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="U8t9DFMX4hppF1b_Cr_i-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;" edge="1" parent="1" source="U8t9DFMX4hppF1b_Cr_i-6" target="U8t9DFMX4hppF1b_Cr_i-5">
+        <mxCell id="U8t9DFMX4hppF1b_Cr_i-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;entryX=0.05;entryY=0.05;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="U8t9DFMX4hppF1b_Cr_i-6" target="U8t9DFMX4hppF1b_Cr_i-5">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="215" y="-540" />
-              <mxPoint x="215" y="-480" />
+              <mxPoint x="399" y="-540" />
             </Array>
           </mxGeometry>
         </mxCell>
