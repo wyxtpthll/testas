@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-22T17:33:39.822Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="f0nFRaVeBy6Z4Tu2_6tK" version="20.3.7" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2022-10-22T17:37:21.749Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="oDFqgTsI5Wr-P31fjA1U" version="20.3.7" type="github" pages="5">
   <diagram id="RK82QppB5NHQeaTOXXpw" name="Over All">
     <mxGraphModel dx="1422" dy="1967" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -113,7 +113,7 @@
         </mxCell>
         <UserObject label="Detail" link="data:page/id,EVoiV-20_b1574V-V12t" linkTarget="_blank" id="ZFzWh5g-4yzC37SLdBZf-1">
           <mxCell style="text;html=1;strokeColor=none;fillColor=none;whiteSpace=wrap;align=center;verticalAlign=middle;fontColor=#0000EE;fontStyle=4;fontSize=11;rounded=0;" parent="1" vertex="1">
-            <mxGeometry x="730" y="-140" width="60" height="40" as="geometry" />
+            <mxGeometry x="590" y="-270" width="60" height="40" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="UX1452k8A1c65i7JiXQy-2" value="N5105" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.server;rounded=0;" parent="1" vertex="1">
@@ -152,10 +152,15 @@
     </mxGraphModel>
   </diagram>
   <diagram id="dd_UoUmQwpVErdtV02tc" name="TP Link">
-    <mxGraphModel dx="1550" dy="871" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="798" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <UserObject label="Detail" link="https://k00.fr/wyxpyxpt9vwi5m" linkTarget="_blank" id="APVWYY4PI8kb8PdXXklH-2">
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;whiteSpace=wrap;align=center;verticalAlign=middle;fontColor=#0000EE;fontStyle=4;" vertex="1" parent="1">
+            <mxGeometry x="100" y="60" width="60" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
       </root>
     </mxGraphModel>
   </diagram>
