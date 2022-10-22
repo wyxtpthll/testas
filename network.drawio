@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-22T14:11:33.348Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="FnJU71PPI0LEZF2-qE4S" version="20.3.7" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-10-22T14:15:44.594Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="eOTePl70eCVoCAvMzYbi" version="20.3.7" type="github" pages="5">
   <diagram id="RK82QppB5NHQeaTOXXpw" name="Over All">
     <mxGraphModel dx="1422" dy="1967" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -103,7 +103,7 @@
         <mxCell id="E8EOGPhub91n_TVj8ovf-3" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;" edge="1" parent="1" source="U8t9DFMX4hppF1b_Cr_i-16" target="E8EOGPhub91n_TVj8ovf-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="E8EOGPhub91n_TVj8ovf-4" value="&lt;span style=&quot;box-sizing: border-box; -webkit-font-smoothing: antialiased; font-family: SourceSansProSemibold; color: rgb(68, 68, 68); font-size: 14px; text-align: start;&quot;&gt;vtnet0&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="E8EOGPhub91n_TVj8ovf-3">
+        <mxCell id="E8EOGPhub91n_TVj8ovf-4" value="&lt;span style=&quot;box-sizing: border-box; -webkit-font-smoothing: antialiased; text-align: start;&quot;&gt;&lt;font face=&quot;SourceSansProSemibold&quot; color=&quot;#444444&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;vtnet0&lt;/span&gt;&lt;/font&gt;&lt;br&gt;&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="E8EOGPhub91n_TVj8ovf-3">
           <mxGeometry x="0.588" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -116,6 +116,11 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <UserObject label="Detail" link="data:page/id,EVoiV-20_b1574V-V12t" id="ZFzWh5g-4yzC37SLdBZf-1">
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;whiteSpace=wrap;align=center;verticalAlign=middle;fontColor=#0000EE;fontStyle=4;fontSize=11;rounded=0;" vertex="1" parent="1">
+            <mxGeometry x="735" y="-270" width="60" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
       </root>
     </mxGraphModel>
   </diagram>
@@ -140,6 +145,23 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="EVoiV-20_b1574V-V12t" name="routerProxmos">
+    <mxGraphModel dx="1422" dy="798" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="vMPKpMErEsN-NgxiQNDA-1" value="vtnet0 -&amp;gt;&amp;nbsp;enp2s0" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="70" y="100" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vMPKpMErEsN-NgxiQNDA-2" value="Router" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="50" y="70" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KpJWm1l35_SeQhXtTUlO-1" value="vtnet1 -&amp;gt;&amp;nbsp;enp3s0" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="70" y="130" width="110" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
